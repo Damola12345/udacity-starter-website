@@ -23,5 +23,5 @@ index.html - The Index document for the website.
 
 You can access the `screenshots` folder to have better understanding:
 
-CloudFront - https://d1a363hxzivma0.cloudfront.net/
-s3 - http://aws-udacity-project.s3-website-us-east-1.amazonaws.com/
+- CloudFront - https://d1a363hxzivma0.cloudfront.net/
+- s3 - http://aws-udacity-project.s3-website-us-east-1.amazonaws.com/
