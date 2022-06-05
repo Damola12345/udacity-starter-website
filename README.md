@@ -14,6 +14,7 @@ index.html - The Index document for the website.
 
 ## Project Setup
 
+- Diagram
 - Create a S3 bucket
 - Upload the website files to your bucket
 - Configure the bucket for website hosting
